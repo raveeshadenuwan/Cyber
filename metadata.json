@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard Mobile",
+  "description": "Android cybersecurity assessment and security utility application with offline device scan, permission auditing, network analysis, password and URL tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
